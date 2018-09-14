@@ -1,2 +1,2 @@
-# SMU_MSDS_homework
+# SMU MSDS homework
 SMU MSDS homework
